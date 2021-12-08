@@ -1,0 +1,17 @@
+body {
+     background-image: url(fundo.jpg!d);
+     margin-top: 66px;
+     margin-left: 66px;
+     margin-bottom: 66px;
+     margin: right 66px; 
+     font-family: cursive;
+     font-size: 54;
+     color:cornsilk
+}
+h1 {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+h2 {
+color: rgb(217, 220, 20);
+}
